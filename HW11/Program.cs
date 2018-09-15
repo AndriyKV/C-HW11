@@ -10,6 +10,7 @@ namespace HW11
     {
         static void Main(string[] args)
         {
+            Console.ReadKey();
         }
     }
 }
